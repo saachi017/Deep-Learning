@@ -30,7 +30,6 @@ This repository contains nine practical assignments for a Deep Learning course. 
 | [Assignment 8](Assignment%208/) | `CSAIE_42_DL_Assignment 8.docx` | `CSAIE_42_DL_Assignment 8.pdf` | `DL_Assignment 8` |
 | [Assignment 9](Assignment%209/) | `CSAIE_42_DL_Assignment 9.docx` | `CSAIE_42_DL_Assignment 9.pdf` | `DL_Assignment_9.ipynb` |
 
-The Assignment 8 notebook is in Jupyter notebook format, but its filename has no `.ipynb` extension.
 
 ## Working with the notebooks
 
